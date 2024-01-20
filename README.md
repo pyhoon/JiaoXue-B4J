@@ -14,14 +14,15 @@
 
 | 翻译 | |
 |----------|-----------------------------|
-| 英语 | 在这个 github 中 |
+| 英语 | https://github.com/pliroforikos/Teaching-B4J |
 | | |
-| 希腊语 | 在这个 github 中 |
+| 希腊语 | https://github.com/pliroforikos/Teaching-B4J |
 | | |
-| 西班牙语 |https://github.com/Lamashino/Teaching-B4J-西班牙语 |
+| 西班牙语 |https://github.com/Lamashino/Teaching-B4J-Spanish |
 | |非常感谢用户Lamashino |
 | | |
-
+| 中文简体 |https://github.com/pyhoon/JiaoXue-B4J |
+| | |
 
 | 课程 | | 详情 | 营业时间 |
 |----------|------------------------------|-------------------------------------------------------------------------------------------------------|--------|
