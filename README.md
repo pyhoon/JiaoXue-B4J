@@ -1,7 +1,7 @@
-# Teaching-B4J
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+# 教学-B4J
+盾牌：[![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a
+本作品已获得许可
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
@@ -10,88 +10,88 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-A series of Lessons to Teach B4J to middle and high Schools 
+向初高中教授 B4J 的一系列课程
 
-| Translations|                              | 
-|-------------|------------------------------|
-| Englsih     | in this github	             |
-|      		  |                              |
-| Greek       | in this github               |
-|             | 						 	 |
-| Spanish     |https://github.com/Lamashino/Teaching-B4J-Spanish  |
-|             |Many Thanks to user Lamashino |
-|             |                              |
+| 翻译 | |
+|----------|-----------------------------|
+| 英语 | 在这个 github 中 |
+| | |
+| 希腊语 | 在这个 github 中 |
+| | |
+| 西班牙语 |https://github.com/Lamashino/Teaching-B4J-西班牙语 |
+| |非常感谢用户Lamashino |
+| | |
 
 
-| Lesson      |                              | Details                                                                                               | Hours |
-|-------------|------------------------------|-------------------------------------------------------------------------------------------------------|-------|
-| 1           | The B4X language             | ·  Why B4X                                                                                            | 1     |
-|             |                              | ·    Downloading and Installing B4J and Java                                                          |       |
-|             |                              | ·  Customize environment                                                                              |       |
-| 2           | The   meaning of the problem | ·  What is a problem                                                                                  | 1     |
-|             |                              | ·    Ways to represent a problem                                                                      |       |
-| 3           | My first Program             | ·  Create a new program                                                                               | 2     |
-|             |                              | ·    How to run a program                                                                             |       |
-|             |                              | ·    How to Save                                                                                      |       |
-|             |                              | ·    The turtle                                                                                       |       |
-| 4           | Variables and Range          | ·  Int                                                                                                | 3     |
-|             |                              | ·  Float                                                                                              |       |
-|             |                              | ·    How to name a variable                                                                           |       |
-|             |                              | ·  Mathematical Operators                                                                             |       |
-|             |                              | ·  Assign Values to Variables                                                                         |       |
-|             |                              | ·  The log function                                                                                   |       |
-|             |                              | ·  Strings                                                                                            |       |
-| 5           | Designer                     | ·  Talking about Designer                                                                             | 2     |
-|             |                              | ·  Design the first Screen                                                                            |       |
-|             |                              | ·    Views: Labels, TextFields, Buttons, Panes                                                        |       |
-|             |                              | ·  Saving forms                                                                                       |       |
-| 6           | From Designer to Code        | ·  Class_Globals                                                                                      | 2     |
-|             |                              | ·    Variables and Subs                                                                               |       |
-|             |                              | ·    Passing Values to Code                                                                           |       |
-|             |                              | ·    Events                                                                                           |       |
-|             |                              | ·    Attribute                                                                                        |       |
-| 7           |                              | ·  Boolean   Variables                                                                                | 4     |
-|             | Conditional Statement        | ·  Relational  Operators                                                                              |       |
-|             |                              | ·  Logical   Operators                                                                                |       |
-|             |                              | ·  If   Statement                                                                                     |       |
-|             |                              | ·  If-Else   Statement                                                                                |       |
-|             |                              | ·  If-Else IF   - Else Statement                                                                      |       |
-|             |                              | ·  MAX   Algorithms                                                                                   |       |
-| 8           | Subroutines                  | ·  What is a   subroutine                                                                             | 3     |
-|             |                              | ·    Declaring a Sub                                                                                  |       |
-|             |                              | ·    Passing Values                                                                                   |       |
-|             |                              | ·    Returning Values from a sub                                                                      |       |
-| 9           | Classes – Objects            | ·  What is a   Class?                                                                                 | 3     |
-|             |                              | ·    What is an Object?                                                                               |       |
-|             |                              | ·    What are Attributes and Methods?                                                                 |       |
-|             |                              | ·    Create and use simple class with B4J.                                                            |       |
-| 10          | B4XPages                     | ·  What is a   B4XPage                                                                                | 3     |
-|             |                              | ·    How to Create and Delete a B4XPage                                                               |       |
-|             |                              | ·    Passing Values within Pages                                                                      |       |
-| 11          | Application 1                | ·  “A simple   Calculator”                                                                            | 3     |
-|             |                              | ·    With the help of teacher pupils creates a   Calculator application with the 4 simple operations. |       |
-| 12          | Loops                        | ·  What are   Loops?                                                                                  | 5     |
-|             |                              | ·    Types of Loops in B4X                                                                            |       |
-|             |                              | ·    For – Next                                                                                       |       |
-|             |                              | ·    For – Each                                                                                       |       |
-|             |                              | ·    Do While                                                                                         |       |
-| 13          | B4XViews                     | ·  What is a   B4XView                                                                                | 1     |
-|             |                              | ·    Hot to create B4XViews                                                                           |       |
-|             |                              | ·    B4XViews events                                                                                  |       |
-| 14          | XUI Views                    | ·  Creating   Dialogs                                                                                 | 2     |
-| 15          | Arrays                       | ·  One   dimensional Arrays                                                                           | 4     |
-|             |                              | ·    Basic Operations with arrays                                                                     |       |
-|             |                              | ·    Linear search                                                                                    |       |
-|             |                              | ·    Binary search                                                                                    |       |
-|             |                              | ·    MAX – MIN item                                                                                   |       |
-|             |                              | ·    Sorting with Bubble Sort                                                                         |       |
-|             |                              | ·    Sorting with Selection Sort                                                                      |       |
-| 16          | Lists                        | ·  What is a   list?                                                                                  | 2     |
-|             |                              | ·    Basic Operations with lists                                                                      |       |
-| 17          | Maps                         | ·  What is a   map?                                                                                   | 2     |
-|             |                              | ·    Basic Operations with maps                                                                       |       |
-| 18          | Files                        | ·  File   location in B4J                                                                             | 2     |
-|             |                              | ·    File Methods                                                                                     |       |
-| 19          | Application 2                | In this app pupils will test their   knowledge creating an application based in previous lessons.     | 10    |
-| 20          | From B4J to B4A              | How to move an application to B4A                                                                     | 2     |
-| Total Hours |                              |                                                                                                       | 57    |
+| 课程 | | 详情 | 营业时间 |
+|----------|------------------------------|-------------------------------------------------------------------------------------------------------|--------|
+| 1 | B4X 语言 | · 为什么选择B4X | 1 |
+| | | · 下载并安装 B4J 和 Java | |
+| | | · 定制环境 | |
+| 2 | 问题的意义| · 有什么问题| 1 |
+| | | · 表达问题的方法| |
+| 3 | 我的第一个程序 | · 创建一个新程序 | 2 |
+| | | · 如何运行程序| |
+| | | · 如何保存| |
+| | | · 乌龟 | |
+| 4 | 变量和范围| · 国际 | 3 |
+| | | · 浮动| |
+| | | · 如何命名变量| |
+| | | · 数学运算符| |
+| | | · 为变量赋值 | |
+| | | · 日志功能| |
+| | | · 弦乐 | |
+| 5 | 设计师| · 谈设计师| 2 |
+| | | · 设计第一个屏幕 | |
+| | | · 视图：标签、文本字段、按钮、窗格 | |
+| | | · 保存表格| |
+| 6 | 从设计师到代码 | · 类_全局| 2 |
+| | | · 变量和子项 | |
+| | | · 将值传递给代码 | |
+| | | · 活动 | |
+| | | · 属性 | |
+| 7 | | · 布尔变量| 4 |
+| | 条件语句 | · 关系运算符 | |
+| | | · 逻辑运算符| |
+| | | · If 语句 | |
+| | | · If-Else 语句 | |
+| | | · If-Else IF - Else 语句| |
+| | | · 最大算法| |
+| 8 | 子程序 | · 什么是子程序| 3 |
+| | | · 声明一个子| |
+| | | · 传递价值观| |
+| | | · 从子程序返回值 | |
+| 9 | 类 – 对象 | · 什么是类？ | 3 |
+| | | · 什么是对象？ | |
+| | | · 什么是属性和方法？ | |
+| | | · 通过 B4J 创建和使用简单的类。 | |
+| 10 | 10 B4X页面 | · 什么是B4XPage | 3 |
+| | | · 如何创建和删除B4XPage | |
+| | | · 页面内传递值| |
+| 11 | 11 应用1 | ·“一个简单的计算器” | 3 |
+| | | · 在老师的帮助下，学生通过 4 个简单的操作创建了一个计算器应用程序。 | |
+| 12 | 12 循环| · 什么是循环？ | 5 |
+| | | · B4X 中的循环类型 | |
+| | | · 对于 – 下一个 | |
+| | | · 对于 – 每个 | |
+| | | · 边做边做| |
+| 13 | B4X 视图 | · 什么是B4XView | 1 |
+| | | · 热衷于创建B4XViews | |
+| | | · B4XViews 活动 | |
+| 14 | 14 XUI 视图 | · 创建对话框 | 2 |
+| 15 | 15 数组| · 一维数组 | 4 |
+| | | · 数组的基本操作| |
+| | | · 线性搜索| |
+| | | · 二分查找| |
+| | | · 最大 – 最小项目 | |
+| | | · 冒泡排序 | |
+| | | · 使用选择排序进行排序 | |
+| 16 | 16 列表 | · 什么是清单？ | 2 |
+| | | · 列表的基本操作| |
+| 17 | 17 地图 | · 什么是地图？ | 2 |
+| | | · 地图基本操作| |
+| 18 | 18 文件| · B4J 中的文件位置| 2 |
+| | | · 文件方法| |
+| 19 | 19 应用2 | 在此应用程序中，学生将根据之前的课程创建应用程序来测试他们的知识。 | 10 | 10
+| 20 | 从 B4J 到 B4A | 如何将应用程序迁移到 B4A | 2 |
+| 总小时数 | | | 57 | 57
